@@ -80,9 +80,9 @@ endmodule
 ```
 
  Developed by: Tejasree.K
-```
+ 
  RegisterNumber: 212224240168
- ```
+ 
 **Logic symbol & Truthtable**
 ![Screenshot 2025-04-09 135351](https://github.com/user-attachments/assets/a0ee9a3b-6b9c-48ec-a458-8e6d9da012de)
 
